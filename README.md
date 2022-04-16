@@ -7,3 +7,7 @@
 **Preview [2.py](./2.py)**
 
 <img src=".media/Screenshot from 2022-04-16 20-38-19.png" />
+
+**Preview [3.py](./3.py)**
+
+<img src=".media/Screenshot from 2022-04-16 20-47-47.png" />
