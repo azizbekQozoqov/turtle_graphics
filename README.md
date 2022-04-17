@@ -11,3 +11,13 @@
 **Preview [3.py](./3.py)**
 
 <img src=".media/Screenshot from 2022-04-16 20-47-47.png" />
+
+**Preview [4.py](./4.py)**
+
+<img src=".media/Screenshot from 2022-04-17 22-01-24.png" />
+
+## Go to the fonts folder and install 'DS-DIGI.TTF' font to your computer.
+
+**Preview [4.py](./4.py)**
+
+<img src=".media/Screenshot from 2022-04-17 22-55-41.png" />
