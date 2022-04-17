@@ -18,6 +18,6 @@
 
 ## Go to the fonts folder and install 'DS-DIGI.TTF' font to your computer.
 
-**Preview [4.py](./4.py)**
+**Preview [5.py](./5.py)**
 
 <img src=".media/Screenshot from 2022-04-17 22-55-41.png" />
